@@ -1,0 +1,35 @@
+# Movies
+The Matrix
+Inception
+The Dark Knight
+Pulp Fiction
+Forrest Gump
+The Shawshank Redemption
+The Godfather
+Star Wars: A New Hope
+The Lord of the Rings: The Fellowship of the Ring
+Jurassic Park
+
+# TV Shows
+Breaking Bad
+Game of Thrones
+The Office
+Friends
+Stranger Things
+The Mandalorian
+The Walking Dead
+House of Cards
+Black Mirror
+The Crown
+
+# Kids
+Spirited Away
+Finding Nemo
+The Lion King
+Toy Story
+Frozen
+Moana
+The Incredibles
+Up
+Inside Out
+Zootopia
